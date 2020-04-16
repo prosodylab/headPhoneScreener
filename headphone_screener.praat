@@ -3,7 +3,7 @@
 
 # Script written by Michael Wagner, April  2020
 
-# One difference to original stimuli is that Woods  et al.  used 
+# One differences to original stimuli is that Woods  et al.  used 
 # first  half of a Hann window to fade in and out,
 # while this script uses a half-cosine function
 
@@ -29,10 +29,10 @@ stereoInPhaseQuiet = Copy... stereoInPhaseQuiet
 removeObject: monoPos2
 
 selectObject: monoPos,monoNeg,stereoInPhase,stereoOutOfPhase
-Scale intensity... 76.0
+Scale intensity... 80.0
 
 selectObject: stereoInPhaseQuiet
-Scale intensity... 70.0
+Scale intensity... 74.0
 
 Save as WAV file... stereoInPhaseQuiet.wav
 
