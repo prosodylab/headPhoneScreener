@@ -7,5 +7,5 @@ Script written by Michael Wagner, April  2020
 
 One difference to original stimuli is that Woods  et al.  used  first  half of a Hann window to fade in and out, while this script uses a half-cosine function
 
-These soundfiles need to be duoble-checked still...
+These soundfiles need to be double-checked still...
 
